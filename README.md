@@ -7,25 +7,8 @@ Collection of 380+ Verilog solutions from [HDL Bits](https://hdlbits.01xz.net/),
 
 ```
 /verilog_hdlbits
-├── 1_Basics/                  # 45 problems
-├── 2_Combinational/           # 68 problems
-│   ├── Basic Gates/
-│   ├── Arithmetic/
-│   └── Karnaugh Maps/
-├── 3_Sequential/              # 92 problems
-│   ├── Latches/
-│   ├── Flip-Flops/
-│   ├── Counters/
-│   └── Shift Registers/
-├── 4_State_Machines/          # 115 problems
-│   ├── Mealy/
-│   ├── Moore/
-│   ├── Timers/
-│   └── Complex Controllers/
-└── 5_Advanced/                # 60 problems
-    ├── Pipeline Designs/
-    ├── Memory Interfaces/
-    └── System-on-Chip Elements/
+├── wire1.v
+..
 ```
 
 ## 🏗 Core Competencies Covered
