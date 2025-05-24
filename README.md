@@ -1,5 +1,5 @@
 
-# Advanced Verilog Practice - HDL Bits Mastery
+# Verilog Practice 
 
 Collection of 380+ Verilog solutions from [HDL Bits](https://hdlbits.01xz.net/), systematically organized from fundamental constructs to advanced finite state machine designs.
 
